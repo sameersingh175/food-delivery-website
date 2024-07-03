@@ -1,0 +1,13 @@
+.mainBox{
+    display :flex;
+    flex-wrap: wrap;
+    width: 80%;
+    margin: auto;
+    gap: 1rem;
+
+}
+
+.box{
+    border: 1px solid gold;
+    padding: 0.5rem;
+}
